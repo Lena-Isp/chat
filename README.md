@@ -3,15 +3,14 @@
 * Дизайн: [figma](https://www.figma.com/file/U6Fu2HoM8nXFIytMd4pwaV/Practicum-Chat?node-id=0%3A1)
 * Раскатка: [netlify](https://blissful-torvalds-0e5f38.netlify.app/)
 
-## Build
+### Build
 ```
 npm run build
 ```
 
-## Frontend
 
 ### Установка
-Клонировать репозиторий
+Клонировать репозиторий:
 ```sh
 git clone git@github.com:Lena-Isp/chat.git
 ```
@@ -20,7 +19,7 @@ git clone git@github.com:Lena-Isp/chat.git
 cd chat
 npm install
 ```
-и запустить локальный сервер
+И запустить локальный сервер:
 ```sh
 npm start
 ```
@@ -34,7 +33,7 @@ npm run
 ```sh
 npm run start
 ```
-Для просмотра в браузере:
+Просмотр в браузере:
 ```sh
 http://localhost:3000
 ``` 
