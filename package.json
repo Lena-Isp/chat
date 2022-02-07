@@ -5,7 +5,7 @@
   "source": "src/index.hbs",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "start": "parcel --port 3000 --open --no-cache",
+    "start": "parcel --port 3000 --open --public-url",
     "build": "parcel build --no-source-maps --no-cache"
   },
   "keywords": [],
