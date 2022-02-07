@@ -24,8 +24,8 @@ npm install
 ```sh
 npm start
 ```
-### Build the app
-Команды для запуска приложения и сборки:
+### Команды для запуска приложения и сборки:
+
 npm run 
   - start
   - build
