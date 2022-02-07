@@ -32,7 +32,7 @@ npm run start
 http://localhost:3000
 ``` 
 
-Сборка
+## Build
 ```
 npm run build
 ```
