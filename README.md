@@ -3,12 +3,6 @@
 * Дизайн: [figma](https://www.figma.com/file/U6Fu2HoM8nXFIytMd4pwaV/Practicum-Chat?node-id=0%3A1)
 * Раскатка: [netlify](https://blissful-torvalds-0e5f38.netlify.app/)
 
-### Build
-```
-npm run build
-```
-
-
 ### Установка
 Клонировать репозиторий:
 ```sh
@@ -37,3 +31,8 @@ npm run start
 ```sh
 http://localhost:3000
 ``` 
+
+Сборка
+```
+npm run build
+```
