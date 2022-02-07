@@ -32,7 +32,8 @@ npm run start
 http://localhost:3000
 ``` 
 
-## Build
+### Build
 
+```
 npm run build
 ```
