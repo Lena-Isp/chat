@@ -1,11 +1,11 @@
 {
   "name": "chat",
   "version": "1.0.0",
-  "description": "учебный проект",
+  "description": "",
   "source": "src/index.hbs",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "start": "parcel --port 3000 --open --public-url",
+    "start": "parcel --port 3000 --open",
     "build": "parcel build --no-source-maps --no-cache"
   },
   "keywords": [],
