@@ -7,3 +7,6 @@
 
 [build]
   publish = "dist"
+
+[context.production]
+  environment = { NODE_VERSION = "14.17.5" }
