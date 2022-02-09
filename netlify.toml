@@ -9,4 +9,4 @@
   publish = "dist"
 
 [context.production]
-  environment = { NODE_VERSION = "14.17.5" }
+  environment = { NODE_VERSION = "16.13.2" }
