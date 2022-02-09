@@ -12,15 +12,15 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel --no-source-maps --no-cache --port 3000 --open ",
-    "build": "parcel build"
+    "build": "parcel build  --no-cache"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.0.1"
+    "parcel": "2.0.1"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": "=12.0.0"
   }
 }
