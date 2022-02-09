@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "2.0.1"
+    "parcel": "2.1.1"
   },
   "engines": {
     "node": "16.13.2"
